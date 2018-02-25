@@ -1,2 +1,3 @@
-# bash
-Bash minimal docker image
+# Bash
+
+Bash minimal Docker image
